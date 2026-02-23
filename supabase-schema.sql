@@ -1,0 +1,2 @@
+-- SwingAI Database Schema (reference copy)
+-- See SETUP_INSTRUCTIONS.md for details
